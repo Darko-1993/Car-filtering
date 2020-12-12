@@ -14,5 +14,5 @@
   <body>
 
   <nav  class="navbar navbar-expand navbar-light bg-light">
-    <a href="index.php" class="navbar-brand">Car Filtering</a>
+    <a href="index.php" class="navbar-brand text-center">Car Filtering</a>
   </nav>

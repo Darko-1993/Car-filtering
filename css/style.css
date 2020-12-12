@@ -1,0 +1,43 @@
+.search-car{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.search-car a{
+    text-decoration:  none;
+}
+
+.search-car h2{
+    margin-bottom: 30px;
+}
+
+.search-car .input-search{
+    margin-bottom: 60px;
+}
+
+.search-car .form-control{
+    box-shadow: none;
+}
+
+.search-car .box-car{
+    margin-bottom: 40px;
+}
+
+footer{
+    background-color: black;
+    padding: 5px 15px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+footer p{
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.car-info{
+    border: 1px solid #eeeeee;
+    padding: 20px;
+}
